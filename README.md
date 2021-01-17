@@ -2,7 +2,7 @@
 
 Projeto com intuito de apresentar orfanatos de crianças para se visitar.
 
-⚙️ Backend (NodeJS e ASP Net Core)
+⚙️ Backend NodeJS
 
 Node.JS
 * Acesse a pasta backend e dê o comando yarn install
@@ -18,8 +18,7 @@ Tecnologias Usadas
 * React
 * Typescript
 * Yarn
-* Asp Net Core
-* CQRS
-* Entity Framework
+* TypeORM
+* Axios
 
-Foram usados outros Frameworks no projeto, mas esses são os principais.
+entre outras.
